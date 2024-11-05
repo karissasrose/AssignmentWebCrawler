@@ -1,0 +1,27 @@
+acoi.ics.uci.edu: 	5 unique pages
+archive.ics.uci.edu: 	188 unique pages
+asterix.ics.uci.edu: 	2 unique pages
+courselisting.ics.uci.edu: 	3 unique pages
+create.ics.uci.edu: 	4 unique pages
+cs.ics.uci.edu: 	4 unique pages
+datalab.ics.uci.edu: 	1 unique pages
+dgillen.ics.uci.edu: 	9 unique pages
+flamingo.ics.uci.edu: 	3 unique pages
+fr.ics.uci.edu: 	1 unique pages
+graphmod.ics.uci.edu: 	1 unique pages
+i-sensorium.ics.uci.edu: 	3 unique pages
+ics.uci.edu: 	324 unique pages
+industryshowcase.ics.uci.edu: 	11 unique pages
+mover.ics.uci.edu: 	23 unique pages
+ngs.ics.uci.edu: 	177 unique pages
+radicle.ics.uci.edu: 	1 unique pages
+sli.ics.uci.edu: 	1 unique pages
+stairs.ics.uci.edu: 	3 unique pages
+tad.ics.uci.edu: 	2 unique pages
+vision.ics.uci.edu: 	2 unique pages
+www.cert.ics.uci.edu: 	665 unique pages
+www.ics.uci.edu: 	114 unique pages
+www.informatics.uci.edu: 	5 unique pages
+www.stat.uci.edu: 	10 unique pages
+
+1562 total pages
